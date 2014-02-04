@@ -10,5 +10,8 @@ Requirements
 
 Usage
 ----
-* *chmod +x mensa.py*
-* *./mensa.py*
+*   Make executable: *chmod +x mensa.py*
+*   Install: *cp mensa.py /usr/local/bin/mensa*
+*   Run: *mensa*
+
+
