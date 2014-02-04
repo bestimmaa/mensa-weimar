@@ -10,5 +10,5 @@ Requirements
 
 Usage
 ----
-- make executable
-- execute
+* *chmod a+x mensa.py*
+* *./mensa.py*
