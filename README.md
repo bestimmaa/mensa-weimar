@@ -10,5 +10,5 @@ Requirements
 
 Usage
 ----
-* *chmod a+x mensa.py*
+* *chmod +x mensa.py*
 * *./mensa.py*
